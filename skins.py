@@ -1,0 +1,42 @@
+SKINS = [
+    {
+        "name": "Classic Green",
+        "SNAKE_HEAD": (76, 175, 80),
+        "SNAKE_TAIL": (129, 199, 132),
+        "APPLE_RED": (231, 76, 60),
+        "LEAF": (30, 144, 110),
+        "TITLE": (62, 95, 138),
+    },
+    {
+        "name": "Ocean Blue",
+        "SNAKE_HEAD": (41, 128, 185),
+        "SNAKE_TAIL": (127, 179, 213),
+        "APPLE_RED": (231, 76, 60),
+        "LEAF": (26, 188, 156),
+        "TITLE": (40, 82, 122),
+    },
+    {
+        "name": "Sunset Orange",
+        "SNAKE_HEAD": (243, 156, 18),
+        "SNAKE_TAIL": (241, 196, 15),
+        "APPLE_RED": (214, 48, 49),
+        "LEAF": (39, 174, 96),
+        "TITLE": (173, 60, 50),
+    },
+    {
+        "name": "Lavender",
+        "SNAKE_HEAD": (155, 89, 182),
+        "SNAKE_TAIL": (187, 143, 206),
+        "APPLE_RED": (231, 76, 60),
+        "LEAF": (46, 204, 113),
+        "TITLE": (100, 61, 127),
+    },
+    {
+        "name": "Cyber Mint",
+        "SNAKE_HEAD": (0, 184, 148),
+        "SNAKE_TAIL": (85, 239, 196),
+        "APPLE_RED": (225, 112, 85),
+        "LEAF": (0, 168, 107),
+        "TITLE": (0, 111, 99),
+    },
+]
